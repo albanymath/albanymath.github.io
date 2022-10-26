@@ -6,4 +6,4 @@
 - [GitHub](https://github.com/albanymath) 
 	- [Colloquium](https://albanymath.github.io/coll/)
 	- [Algebra/Topology Seminar](https://albanymath.github.io/ats/)
-	- [Applied Topology in Albany (ATiA) Seminar](https://atia-seminar.github.io)
+	- [Applied Topology in Albany (ATiA) Seminar](https://albanymath.github.io/ATiA/)
