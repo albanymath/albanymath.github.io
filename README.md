@@ -7,5 +7,6 @@
 	- [Colloquium](https://albanymath.github.io/coll/)
 	- [Algebra/Topology Seminar](https://albanymath.github.io/ats/)
 	- [Applied Topology in Albany (ATiA) Seminar](https://albanymath.github.io/ATiA/)
+	- [Analysis and Data Science Seminar](https://albanymath.github.io/adss/)
 	- Events
 		- [ComPer 2025](https://albanymath.github.io/comper25/)
